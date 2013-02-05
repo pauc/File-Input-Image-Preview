@@ -1,3 +1,5 @@
+Forked from https://github.com/kellishaver/File-Input-Image-Preview
+
 Upload Image Preview
 ----
 
